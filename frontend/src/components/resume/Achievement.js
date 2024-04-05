@@ -11,56 +11,31 @@ const Achievement = () => {
     >
       <div>
         <div className="py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2007 - 2010</p>
+          <p className="text-sm text-designColor tracking-[4px]">2023 - 2024</p>
           <h2 className="text-4xl font-bold">Company Experience</h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Lorem ipsum dolor sit amet."
-            subTitle="Lorem ipsum dolor sit amet alternative."
+            title="Goethe Institute."
+            subTitle="German language A1."
             result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            des="The globally active cultural institute of the Federal Republic of Germany,German courses, intercultural encounters, information about Germany!"
           />
           <ResumeCard
-            title="Lorem ipsum dolor sit amet."
-            subTitle="Lorem ipsum dolor sit amet alternative."
+            title="Cake Tekniks."
+            subTitle="Baking and Sweet Confectioneries."
             result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            des="We are the best Training institute for Cake design, Floral decor, Sugar craft, Pastries and Catering. We also handle Catering and Event management!"
           />
           <ResumeCard
-            title="Lorem ipsum dolor sit amet."
-            subTitle="Lorem ipsum dolor sit amet alternative."
+            title="Moreton Bay Regional Council Entrepreneurship & Innovation:."
+            subTitle="Web Development Job Simulation on Forage - February 2024."
             result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
+            des="Created a sitemap and userflow using a diagram creation tool.
+            Used HTML & CSS to create a landing page.!"
           />
         </div>
-      </div>
-      <div>
-        <div className="py-12 font-titleFont flex flex-col gap-4">
-          <p className="text-sm text-designColor tracking-[4px]">2007 - 2010</p>
-          <h2 className="text-4xl font-bold">Job Experience</h2>
-        </div>
-        <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
-          <ResumeCard
-            title="Lorem ipsum dolor sit amet."
-            subTitle="Lorem ipsum dolor sit amet alternative."
-            result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
-          />
-          <ResumeCard
-            title="Lorem ipsum dolor sit amet."
-            subTitle="Lorem ipsum dolor sit amet alternative."
-            result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
-          />
-          <ResumeCard
-            title="Lorem ipsum dolor sit amet."
-            subTitle="Lorem ipsum dolor sit amet alternative."
-            result="Success"
-            des="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora itaque accusamus corporis dolor debitis natus sapiente, voluptates possimus minima totam!"
-          />
-        </div>
-      </div>
+      </div>  
     </motion.div>
   );
 };
