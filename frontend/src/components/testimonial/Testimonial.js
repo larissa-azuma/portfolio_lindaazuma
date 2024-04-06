@@ -43,7 +43,7 @@ const Testimonial = () => {
                 </div>
               </div>
               <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
-                When it comes to creating beautiful, awesome and images Miss Linda Azuma is the one for the job. She professional, always delivers and adds a touch of class to her works. I am glad I chose her to work with and I recommend her to everyone.
+                When it comes to creating beautiful and awesome images Miss Linda Azuma is the one for the job. She professional, always delivers and adds a touch of class to her works. I am glad I chose her to work with and I recommend her to everyone.
               </p>
             </div>
           </div>

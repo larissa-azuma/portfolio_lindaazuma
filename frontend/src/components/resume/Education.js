@@ -25,17 +25,17 @@ const Education = () => {
           <ResumeCard
             title="Bachelor of Science in Admin(Banking & Finance)"
             subTitle="University of Ghana (2014 - 2019)"
-             des="An indepth training provided by University of Ghana in order to prepare students to work in various sectors of the economy "
+             des="he University of Ghana Business School (UGBS) is a premier business school in the sub-region focused on developing world-class human resources and capabilities to meet national development needs and global challenges, through quality teaching, learning, research and knowledge dissemination." 
           />
           <ResumeCard
             title="German Course"
             subTitle="Geothe Institute (2022)"
-            des="The globally active cultural institute of the Federal Republic of Germany✓ German courses, intercultural encounters, information about Germany."
+            des="The globally active cultural institute of the Federal Republic of Germany which teaches German courses, intercultural encounters and provides information about Germany."
           />
           <ResumeCard
             title="Secondary School Education"
             subTitle="Preset Pacesetters (2012 - 2014)"
-           des="Three years of practical and theoritical studies to be able to sit for my West African Certificate Exams."
+           des="We are a community partner and an active corporate citizen of The Republic of Ghana. Our mission is to offer exemplary scholarly instruction based on a robust academic curriculum."
           />
         </div>
       </div>

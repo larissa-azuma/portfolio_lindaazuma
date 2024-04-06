@@ -8,7 +8,7 @@ import projectFive from './images/projects/projectFive.jpg';
 import projectSix from "./images/projects/projectSix.jpg";
 import testimonialOne from './images/testmonial/testimonialOne.jpg';
 import quote from "./images/testmonial/quote.png";
-import contactImg from "./images/contact/contactImg.png";
+import contactImg from "./images/contact/contactImg.jpg";
 
 export {
   logo,

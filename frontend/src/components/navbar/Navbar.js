@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { Link } from "react-scroll";
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import { FaLinkedinIn } from "react-icons/fa";
 import {logo} from "../../assets/index"
 import { navLinksdata } from '../../constants';
 
@@ -45,9 +45,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                A creative web developer who is ready and willing to bring clients' imagination into reality in order to solve world problems. My excitement as a web developer is driven by creating beautiful functional and responsive websites and apps for clients.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
@@ -72,15 +70,9 @@ const Navbar = () => {
               </ul>
               <div className="flex flex-col gap-4">
                 <h2 className="text-base uppercase font-titleFont mb-4">
-                  Find me in
+                  Find me on
                 </h2>
-                <div className="flex gap-4">
-                  <span className="bannerIcon">
-                    <FaFacebookF />
-                  </span>
-                  <span className="bannerIcon">
-                    <FaTwitter />
-                  </span>
+                <div className="flex gap-4"> 
                   <span className="bannerIcon">
                     <FaLinkedinIn />
                   </span>

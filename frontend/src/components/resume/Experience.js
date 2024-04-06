@@ -21,7 +21,7 @@ const Experience = () => {
             title="Customer Service Representative "
             subTitle="GCB Bank PLC - (2018 - 2019)"
             result="GH"
-            des="GCB is Africa's most welcoming bank, offering accessible financial support wherever it's needed through helpful service and expert solutions."
+            des="GCB Bank PLC is Africa's most welcoming bank, offering accessible financial support wherever it's needed through helpful service and expert solutions."
           />
            <ResumeCard
             title="Secretary,Teller,Customer Service Officer(INTERN)"

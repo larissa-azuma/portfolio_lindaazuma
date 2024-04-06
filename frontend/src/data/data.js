@@ -6,19 +6,19 @@ export const featuresData = [
   {
     id: 1,
     title: "Web Developer",
-    des: "I Am Knowledgeable In Essential Languages And Frameworks Including HTML,CSS JavaScript,React.js,MongoDB, Express.js and Jira.",
+    des: "I am knowledgeable in essential languages and frameworks including HTML,CSS JavaScript,React.js,MongoDB, Express.js and Jira.",
   },
   {
     id: 2,
     icon: <AiFillAppstore />,
     title: "App Development",
-    des: "Ability To Create Wonderful,Beautiful,Functional and Responsive Apps That Helps Solves Clients Problems",
+    des: "Ability to create wonderful,beautiful,functional and responsive apps that helps solves clients problems",
   },
   {
     id: 3,
     icon: <SiProgress />,
     title: "Graphic Design",
-    des: "Bringing Images To Live Is What I Do Best",
+    des: "Bringing images to live is what I do best",
   },
   
 ];
